@@ -1,0 +1,298 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+.cont{
+    width: 1150px;
+    margin: auto;
+
+}
+.hhh{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+.nav{
+    padding-left: 15px;
+padding-top: 10px;
+margin-top: 15px;
+    float: left;
+     background-color: ;
+}
+.nav ul{
+    display: inline;
+   
+}
+.nav ul li { display: inline;
+    padding-left: 45px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.nav ul li a{ display: inline;
+padding-left: 15px;
+padding-top: 35px;
+margin-top: 15px;
+    color: white;
+    text-decoration: none;
+
+
+}
+.nav ul li a:hover{ 
+      
+    color: aqua;
+
+}
+.smae  i:hover{ 
+      
+    color: aqua;
+
+}
+.smae{
+    padding-left: 390px;
+padding-top: 10px;
+margin-top: 15px;
+    float: left;
+     background-color: ;
+}
+
+.smae i { 
+ display: inline;
+    padding-left: 15px;
+    font-size: 20px;
+    color: white;
+
+}
+.smae a { 
+ display: inline;
+padding-left: 10px;
+padding-top: 35px;
+margin-top: 15px;
+
+
+}
+
+.header{
+    width: 100%;
+    height: 350px;
+    background-color: blueviolet;
+}
+.heading{
+    width: 50%;
+    float: left;
+    border-right: 1px solid #DDD;
+        margin-top: 50px;
+}
+.heading p{
+    font-size: 27px;
+    color: white;
+    padding-left: 30px;
+}
+.btn{
+    width: 150px;
+    height: 35px;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 15px;
+    border: 1px solid deepskyblue;
+    cursor: pointer;
+    outline: 0;
+    
+}
+.heading h2 {
+    width: 35%;
+    margin-top: 85px;
+    margin-left: 40px;
+    padding-left: 15px;
+    color: white;
+}
+.header .what{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 110px;
+}
+.what p {
+    color: white;
+       font-size: 20px;
+    line-height: 1.8;
+font-weight: bold;
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    border-top: 1px solid #DDD;
+
+}
+.footer p{
+    text-align: center;
+    line-height: 80px;
+    font-size: 20px;
+    line-height: 1.8px;
+}
+.btn2 {
+
+    width: 150px;
+    height: 35px;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 15px;
+    border: 1px solid deepskyblue;
+    cursor: pointer;
+    outline: 0;
+}
+.magen{ 
+    width: 100%;
+    height: 350px;
+    border-bottom: 20px solid #DDD;
+
+}
+.cont{}
+.learn{
+    float: left;
+    width: 50%;
+    border-right: 2px solid #DDD;
+        margin-top: 50px;
+}
+.learn h2 {
+  font-family: tahoma;
+    text-decoration: underline;
+}
+.Ipsum{
+   
+        width: 40%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 60px;
+    visibility: hidden;
+}
+
+.learn p {
+       font-size: 15px;
+    line-height: 1.8;
+font-weight: bold;
+}
+.Ipsum i{
+    padding-right: 7px;
+    color: deepskyblue;
+    margin-bottom: 20px;
+}
+.phar{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f2f2f2;
+}
+.inc{}
+.d1 img
+{
+      width: 40%;
+    float: left;
+    margin-left: 7%;
+}
+.d1{
+}
+.he{
+     width: 40%;
+    float: left;
+    padding-left: 50px;
+    margin-left: 3%;
+}
+.he p{
+    line-height: 2;
+    font-family: tahoma;
+    border-bottom: 1px solid #000;
+    
+}
+.btn3 {
+    width: 200px;
+    height: 35px;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 15px;
+    border: 1px solid deepskyblue;
+    cursor: pointer;
+    outline: 0;
+    float: left;
+}
+.ws{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+
+
+
+.zel{ 
+    width: 100%;
+    height: 400px;
+     margin-bottom: 20px;
+}
+
+.cont{}
+
+.cotact
+{    
+    width: 50%;
+    float: left;
+    border-right: 1px solid #DDD;
+        margin-top: 50px;
+   
+}
+.cotact p{
+
+    line-height: 1.5;
+    font-size: 17px;
+}
+input{
+    width: 180px;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid #000;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    margin-bottom: 5px;
+    
+}
+.sub{
+    background-color: darkturquoise;
+    border-radius: 7px;
+    padding: 2px;
+    outline: 0;
+    cursor: pointer;
+
+}
+
+.social
+{  
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 110px;
+}
+.social i{
+    color: darkturquoise;
+    font-size: 18px;
+}
+.social a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    margin-left: 25px;
+    padding-bottom: 5px;
+}
+.social a:hover{
+    font-size: 20px;
+    color: red;
+
+}
+.hhh img {
+    padding-top: 15px;
+    margin-left: 70px;
+}
+
+
